@@ -22,12 +22,6 @@ import javax.persistence.TemporalType;
 
 
 
-
-
-
-
-
-
 @Entity
 @Table(name = "T_USER")
 public class User implements Serializable {
